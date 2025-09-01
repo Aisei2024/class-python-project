@@ -1,2 +1,2 @@
 # class-python-project
-all code         
+all code and exercise  in  class python 
